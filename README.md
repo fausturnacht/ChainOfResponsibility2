@@ -16,4 +16,8 @@
 
 ### UML Diagram
 
-![UML Diagram](https://i.imgur.com/8X9Z5sP.png)
+![UML Diagram](https://github.com/fausturnacht/ChainOfResponsibility2/blob/c09f75885c1ef415996e456db5e65dfb7d769dec/ChainofResponsibility-UML.png)
+
+### Sample Output
+
+![Sample Output](https://github.com/fausturnacht/ChainOfResponsibility2/blob/c09f75885c1ef415996e456db5e65dfb7d769dec/Output1.png)
